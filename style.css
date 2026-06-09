@@ -1,0 +1,22 @@
+body 
+  {
+    background-color: lightblue;
+  }
+
+h1 {
+    color: red;
+    font-size:100px
+  }
+
+.texto{
+    font-size: 40px;
+
+}
+p {
+    font-family: Arial;
+  }  
+
+.img-flan {
+    width: 30%;
+    height: 30%;
+} 
